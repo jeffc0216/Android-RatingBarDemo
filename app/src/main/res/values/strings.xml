@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RatingBarDemo</string>
+    <string name="text_tvText">Please give your review for this book.</string>
+
+</resources>

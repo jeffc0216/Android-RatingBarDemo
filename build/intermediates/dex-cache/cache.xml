@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="581a722409595c726841b11bb9db31c54906d271">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_879c39b41e2f4c13e64ca38c95128aab271bd3d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f2fda7260fa888a26bffccb9ffe570098db48df6">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_936be23932cd481f1c24849d72888f31dcf5a213/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_5ea63225fb16910484cb63f3d4f7dbb30fdcb076/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_63b71fba86cec4d1067df0f63883b826bd1d81ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_c32778dd72aa57f079ee8dea9a06b6669f02cd48/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/RatingBarDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_ce336b778b1e124648474a4229e829e7850dac92/classes.dex" />
+    </item>
+
+</items>
